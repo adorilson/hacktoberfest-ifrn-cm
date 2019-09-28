@@ -4,8 +4,8 @@ Este é o repositório com informação sobre o Hacktoberfest que ocorrerá no
 IFRN - Ceará-Mirim.
 
 ## Pre-requisitos
-    1. Querer contribuir
-    1. Querer aprender
+1. Querer contribuir
+1. Querer aprender
 
 ## Comandos Git úteis
 ```
