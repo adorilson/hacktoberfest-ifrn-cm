@@ -7,3 +7,4 @@ IFRN - Ceará-Mirim.
 
 1. Adorilson Bezerra de Araujo
 1. Danilo de Souza Braga Aciole
+1. Felipe Caridade Fernandes
