@@ -7,4 +7,6 @@ IFRN - Ceará-Mirim.
 
 1. Adorilson Bezerra de Araujo
 1. Felipe Caridade Fernandes
+1. Maria Carolina de Sousa Soares
 1. Matuzael dos Santos Dias
+
