@@ -6,4 +6,7 @@ IFRN - Ceará-Mirim.
 ## Participantes
 
 1. Adorilson Bezerra de Araujo
-2. Maria Carolina de Sousa Soares
+1. Felipe Caridade Fernandes
+1. Maria Carolina de Sousa Soares
+1. Matuzael dos Santos Dias
+
