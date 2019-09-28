@@ -6,4 +6,4 @@ IFRN - Ceará-Mirim.
 ## Participantes
 
 1. Adorilson Bezerra de Araujo
-3. Danilo de Souza Braga Aciole
+1. Danilo de Souza Braga Aciole
