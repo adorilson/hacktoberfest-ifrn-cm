@@ -6,3 +6,4 @@ IFRN - Ceará-Mirim.
 ## Participantes
 
 1. Adorilson Bezerra de Araujo
+1. Catarina Agnes Alves Ferreira de Oliveira
