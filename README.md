@@ -6,4 +6,4 @@ IFRN - Ceará-Mirim.
 ## Participantes
 
 1. Adorilson Bezerra de Araujo
-2. Felipe Caridade Fernandes
+1. Felipe Caridade Fernandes
