@@ -38,3 +38,4 @@ IFRN - Ceará-Mirim.
 1. Felipe Caridade Fernandes
 1. Maria Carolina de Sousa Soares
 1. Matuzael dos Santos Dias
+1. Vinícios Barbosa da Silva
