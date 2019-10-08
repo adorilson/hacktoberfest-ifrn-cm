@@ -37,6 +37,8 @@ IFRN - Ceará-Mirim.
 1. Eflain Nascimento de Moura
 1. Felipe Caridade Fernandes
 1. Jessica Barbosa do Nascimento Pontes
+1. João Henrique de Assis de Oliveira
+1. João Lucas de Sena Costa
 1. Jordana Sara Silva Dos Santos
 1. Hortência Arliane Quintiliano Xavier
 1. Maria Carolina de Sousa Soares
