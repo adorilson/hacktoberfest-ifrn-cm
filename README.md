@@ -22,3 +22,10 @@ IFRN - Ceará-Mirim.
 1. Felipe Caridade Fernandes
 1. Maria Carolina de Sousa Soares
 1. Matuzael dos Santos Dias
+
+## PRs Feitos
+
+[Adição de links na página introdução #189](https://github.com/pythonbrasil/wiki/pull/189)
+[Adição de Wiki em gitignore #190](https://github.com/pythonbrasil/wiki/pull/190)
+[Perguntas frequentes na página introdução](https://github.com/pythonbrasil/wiki/pull/198)
+[Adição do pt-br no readme](https://github.com/potilivre/jararaca/pull/1)
