@@ -27,5 +27,5 @@ IFRN - Ceará-Mirim.
 
 1. [Adição de links na página introdução #189](https://github.com/pythonbrasil/wiki/pull/189)
 1. [Adição de Wiki em gitignore #190](https://github.com/pythonbrasil/wiki/pull/190)
-1. [Perguntas frequentes na página introdução](https://github.com/pythonbrasil/wiki/pull/198)
-1. [Adição do pt-br no readme](https://github.com/potilivre/jararaca/pull/1)
+1. [Perguntas frequentes na página introdução #198](https://github.com/pythonbrasil/wiki/pull/198)
+1. [Adição do pt-br no readme #1](https://github.com/potilivre/jararaca/pull/1)
