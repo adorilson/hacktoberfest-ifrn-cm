@@ -26,7 +26,6 @@ IFRN - Ceará-Mirim.
     * https://jtemporal.com/projetos-brasileiros-para-fazer-pull-requests-nesse-hacktoberfest-o-retorno/
 1. https://github.com/grupyrn/jararaca
 1. https://github.com/luanfonceca/speakerfight
-1. https://github.com/pyladies-brhttps://www.mozilla.org/en-US/privacy/firefox/azil/br-pyladies-pelican
 1. https://github.com/glpi-project
 1. https://github.com/arguman/arguman.org (plataforma para análise de argumentos)
 
