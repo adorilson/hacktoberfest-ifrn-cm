@@ -41,6 +41,7 @@ IFRN - Ceará-Mirim.
 1. João Lucas de Sena Costa
 1. Jordana Sara Silva Dos Santos
 1. Hortência Arliane Quintiliano Xavier
+1. Maria Alice Aquino de Lima
 1. Maria Carolina de Sousa Soares
 1. Matuzael dos Santos Dias
 1. Vinícios Barbosa da Silva
