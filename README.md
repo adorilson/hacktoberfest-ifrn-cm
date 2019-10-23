@@ -43,5 +43,6 @@ IFRN - Ceará-Mirim.
 1. Hortência Arliane Quintiliano Xavier
 1. Maria Carolina de Sousa Soares
 1. Matuzael dos Santos Dias
+1. Neemias Renan Santos de Oliveira
 1. Vinícios Barbosa da Silva
 
