@@ -32,7 +32,7 @@ IFRN - Ceará-Mirim.
 
 ## Participantes
 
-1. Adorilson Bezerra de Araujo - URL GitHub: https://github.com/adorilson
+1. [Adorilson Bezerra de Araujo](https://github.com/adorilson)
 1. Danilo de Souza Braga Aciole
 1. Eflain Nascimento de Moura
 1. Felipe Caridade Fernandes
@@ -40,7 +40,7 @@ IFRN - Ceará-Mirim.
 1. João Lucas de Sena Costa
 1. Jordana Sara Silva Dos Santos
 1. [Juliana Vitória N. F. de Araújo](https://github.com/JulianaVitoria629)
-1. Hortência Arliane Quintiliano Xavier - URL GitHub: https://github.com/HortenciaArliane
+1. [Hortência Arliane Quintiliano Xavier](https://github.com/HortenciaArliane)
 1. Maria Carolina de Sousa Soares
 1. Matuzael dos Santos Dias
 1. Vinícios Barbosa da Silva
