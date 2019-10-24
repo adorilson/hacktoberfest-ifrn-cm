@@ -44,4 +44,3 @@ IFRN - Ceará-Mirim.
 1. Maria Carolina de Sousa Soares
 1. [Matuzael dos Santos Dias](https://github.com/Matuzael)
 1. [Vinícios Barbosa da Silva](https://github.com/ViniciosSilva811)
-
