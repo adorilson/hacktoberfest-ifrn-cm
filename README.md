@@ -29,6 +29,8 @@ IFRN - Ceará-Mirim.
 1. https://github.com/pyladies-brhttps://www.mozilla.org/en-US/privacy/firefox/azil/br-pyladies-pelican
 1. https://github.com/glpi-project
 1. https://github.com/arguman/arguman.org (plataforma para análise de argumentos)
+1. https://vinitshahdeo.github.io/HacktoberFest2K19/ (Conjunto de projetos para contribuir)
+1. https://github.com/crweiner/hacktoberfest-swag-list (Outros brindes que podem ser ganhos fazendo PR em outubro)
 
 ## Participantes
 
