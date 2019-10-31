@@ -37,6 +37,7 @@ IFRN - Ceará-Mirim.
 1. Danilo de Souza Braga Aciole
 1. Eflain Nascimento de Moura
 1. Felipe Caridade Fernandes
+1. Jessica Barbosa do Nascimento Pontes
 1. Francisco de A C de Moura
 1. João Henrique de Assis de Oliveira
 1. João Lucas de Sena Costa
