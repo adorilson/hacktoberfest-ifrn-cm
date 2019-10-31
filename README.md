@@ -33,9 +33,11 @@ IFRN - Ceará-Mirim.
 ## Participantes
 
 1. [Adorilson Bezerra de Araujo](https://github.com/adorilson)
+1. Catarina Agnes Alves Ferreira de Oliveira
 1. [Danilo de Souza Braga Aciole](https://github.com/Danilo25)
 1. [Eflain Nascimento de Moura](https://github.com/EflainMoura)
 1. [Felipe Caridade Fernandes](https://github.com/Felipe-ifrn)
+1. Jessica Barbosa do Nascimento Pontes
 1. [Francisco de A. C. de Moura](https://github.com/Francks01)
 1. [João Henrique de Assis de Oliveira](https://github.com/jh12-ao)
 1. [João Lucas de Sena Costa](https://github.com/JLJohnS)
