@@ -33,10 +33,12 @@ IFRN - Ceará-Mirim.
 ## Participantes
 
 1. Adorilson Bezerra de Araujo
+1. Catarina Agnes Alves Ferreira de Oliveira
 1. Danilo de Souza Braga Aciole
 1. Eflain Nascimento de Moura
 1. Felipe Caridade Fernandes
 1. Jessica Barbosa do Nascimento Pontes
+1. Francisco de A C de Moura
 1. João Henrique de Assis de Oliveira
 1. João Lucas de Sena Costa
 1. Jordana Sara Silva Dos Santos
@@ -45,4 +47,13 @@ IFRN - Ceará-Mirim.
 1. Matuzael dos Santos Dias
 1. Vinícios Barbosa da Silva
 
+## pull requests feitas pelos participantes  
 
+| Nome | Quantidade de pull requests| Perfil no github
+|--|--|--|
+|Adorilson Bezerra   | 0 |[Adorilson](https://github.com/adorilson) |
+|Danilo de Souza     | 0 | [Danilo25](https://github.com/Danilo25)|
+|Felipe Caridade     | 0 |[fecaridade](https://github.com/fecaridade)|
+|Maria Carolina      | 0 |- - -|
+|Matuzael dos Santos | 0 |- - -|
+|Eflain Nascimento   | 0 |[EflainMoura](https://github.com/EflainMoura)|
