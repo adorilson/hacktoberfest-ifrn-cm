@@ -33,6 +33,10 @@ IFRN - Ceará-Mirim.
 ## Participantes
 
 1. [Adorilson Bezerra de Araujo](https://github.com/adorilson)
+   1. Novo usuario de Github: não
+   1. PRs feitos: 5
+   1. Linhas editadas: 
+   1. Projetos: 
 1. Catarina Agnes Alves Ferreira de Oliveira
 1. [Danilo de Souza Braga Aciole](https://github.com/Danilo25)
 1. [Eflain Nascimento de Moura](https://github.com/EflainMoura)
@@ -47,6 +51,15 @@ IFRN - Ceará-Mirim.
 1. [Maria Carolina de Sousa Soares](https://github.com/MariaCarolinass)
 1. [Matuzael dos Santos Dias](https://github.com/Matuzael)
 1. [Vinícios Barbosa da Silva](https://github.com/ViniciosSilva811)
+
+## Alguns números
+
+1. Novos usuários do Github:
+1. Participantes ativos (fizeram ao menos um PR entre 01/10 e 31/10):
+1. Total de PRs feitos:
+1. Completaram o desafio do Hacktoberfest:
+1. Projetos que mais receberam contribuições: pythonbrasil/wiki e
+colaboradados/colaboradados.github.io
 
 ## PRs Feitos
 
