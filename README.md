@@ -40,6 +40,10 @@ IFRN - Ceará-Mirim.
 1. Catarina Agnes Alves Ferreira de Oliveira
 1. [Danilo de Souza Braga Aciole](https://github.com/Danilo25)
 1. [Eflain Nascimento de Moura](https://github.com/EflainMoura)
+   1. Novo usuario de Github: Sim
+   1. PRs feitos: 5
+   1. Linhas editadas: 179
+   1. Projetos: 5 ( https://github.com/adorilson/colaboradados.github.io/pull/5, https://github.com/luanfonceca/speakerfight/pull/570, https://github.com/luanfonceca/speakerfight/pull/566, https://github.com/pythonbrasil/wiki/pull/207, https://github.com/adorilson/hacktoberfest-ifrn-cm/pull/10 )
 1. [Felipe Caridade Fernandes](https://github.com/Felipe-ifrn)
 1. Jessica Barbosa do Nascimento Pontes
 1. [Francisco de A. C. de Moura](https://github.com/Francks01)
