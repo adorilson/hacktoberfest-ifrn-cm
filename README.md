@@ -44,6 +44,13 @@ IFRN - Ceará-Mirim.
 1. Jessica Barbosa do Nascimento Pontes
 1. [Francisco de A. C. de Moura](https://github.com/Francks01)
 1. [João Henrique de Assis de Oliveira](https://github.com/jh12-ao)
+   1. Novo usuario de Github: Sim
+   1. PRs feitos: 4 (https://github.com/adorilson/hacktoberfest-ifrn-cm/pull/18
+                     https://github.com/luanfonceca/speakerfight/pull/571
+                     https://github.com/luanfonceca/speakerfight/pull/569
+                     https://github.com/luanfonceca/speakerfight/pull/568)
+   1. Linhas editadas: 13
+   1. Projetos: 2 
 1. [João Lucas de Sena Costa](https://github.com/JLJohnS)
 1. [Jordana Sara Silva Dos Santos](https://github.com/prasararaiva)
 1. [Juliana Vitória N. F. de Araújo](https://github.com/JulianaVitoria629)
