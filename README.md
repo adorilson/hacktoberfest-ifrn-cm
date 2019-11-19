@@ -34,7 +34,6 @@ IFRN - Ceará-Mirim.
 
 ## Participantes
 
-
 1. [Adorilson Bezerra de Araujo](https://github.com/adorilson)
    1. Novo usuario de Github: não
    1. PRs feitos: 5
