@@ -29,20 +29,55 @@ IFRN - Ceará-Mirim.
 1. https://github.com/pyladies-brhttps://www.mozilla.org/en-US/privacy/firefox/azil/br-pyladies-pelican
 1. https://github.com/glpi-project
 1. https://github.com/arguman/arguman.org (plataforma para análise de argumentos)
+1. https://vinitshahdeo.github.io/HacktoberFest2K19/ (Conjunto de projetos para contribuir)
+1. https://github.com/crweiner/hacktoberfest-swag-list (Outros brindes que podem ser ganhos fazendo PR em outubro)
 
 ## Participantes
 
-1. Adorilson Bezerra de Araujo
+1. [Adorilson Bezerra de Araujo](https://github.com/adorilson)
+   1. Novo usuario de Github: não
+   1. PRs feitos: 5
+   1. Linhas editadas: 
+   1. Projetos: 
+1. Catarina Agnes Alves Ferreira de Oliveira
 1. Claudiane Silva da Paz
-1. Danilo de Souza Braga Aciole
-1. Eflain Nascimento de Moura
-1. Felipe Caridade Fernandes
-1. Francisco de A C de Moura
-1. João Henrique de Assis de Oliveira
-1. João Lucas de Sena Costa
-1. Jordana Sara Silva Dos Santos
-1. Hortência Arliane Quintiliano Xavier
-1. Maria Carolina de Sousa Soares
-1. Matuzael dos Santos Dias
-1. Vinícios Barbosa da Silva
+1. [Danilo de Souza Braga Aciole](https://github.com/Danilo25)
+1. [Eflain Nascimento de Moura](https://github.com/EflainMoura)
+   1. Novo usuario de Github: Sim
+   1. PRs feitos: 5
+   1. Linhas editadas: 179
+   1. Projetos: 5 ( https://github.com/adorilson/colaboradados.github.io/pull/5, https://github.com/luanfonceca/speakerfight/pull/570, https://github.com/luanfonceca/speakerfight/pull/566, https://github.com/pythonbrasil/wiki/pull/207, https://github.com/adorilson/hacktoberfest-ifrn-cm/pull/10 )
+1. [Felipe Caridade Fernandes](https://github.com/Felipe-ifrn)
+1. Jessica Barbosa do Nascimento Pontes
+1. [Francisco de A. C. de Moura](https://github.com/Francks01)
+1. [João Henrique de Assis de Oliveira](https://github.com/jh12-ao)
+   1. Novo usuario de Github: Sim
+   1. PRs feitos: 4 (https://github.com/adorilson/hacktoberfest-ifrn-cm/pull/18
+                     https://github.com/luanfonceca/speakerfight/pull/571
+                     https://github.com/luanfonceca/speakerfight/pull/569
+                     https://github.com/luanfonceca/speakerfight/pull/568)
+   1. Linhas editadas: 13
+   1. Projetos: 2 
+1. [João Lucas de Sena Costa](https://github.com/JLJohnS)
+1. [Jordana Sara Silva Dos Santos](https://github.com/prasararaiva)
+1. [Juliana Vitória N. F. de Araújo](https://github.com/JulianaVitoria629)
+1. [Hortência Arliane Quintiliano Xavier](https://github.com/HortenciaArliane)
+1. [Maria Carolina de Sousa Soares](https://github.com/MariaCarolinass)
+1. [Matuzael dos Santos Dias](https://github.com/Matuzael)
+1. [Vinícios Barbosa da Silva](https://github.com/ViniciosSilva811)
 
+## Alguns números
+
+1. Novos usuários do Github:
+1. Participantes ativos (fizeram ao menos um PR entre 01/10 e 31/10):
+1. Total de PRs feitos:
+1. Completaram o desafio do Hacktoberfest:
+1. Projetos que mais receberam contribuições: pythonbrasil/wiki e
+colaboradados/colaboradados.github.io
+
+## PRs Feitos
+
+1. [Adição de links na página introdução #189](https://github.com/pythonbrasil/wiki/pull/189)
+1. [Adição de Wiki em gitignore #190](https://github.com/pythonbrasil/wiki/pull/190)
+1. [Perguntas frequentes na página introdução #198](https://github.com/pythonbrasil/wiki/pull/198)
+1. [Adição do pt-br no readme #1](https://github.com/potilivre/jararaca/pull/1)
