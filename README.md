@@ -40,6 +40,7 @@ IFRN - Ceará-Mirim.
    1. Linhas editadas: 
    1. Projetos: 
 1. Catarina Agnes Alves Ferreira de Oliveira
+1. Claudiane Silva da Paz
 1. [Danilo de Souza Braga Aciole](https://github.com/Danilo25)
 1. [Eflain Nascimento de Moura](https://github.com/EflainMoura)
    1. Novo usuario de Github: Sim
@@ -64,7 +65,6 @@ IFRN - Ceará-Mirim.
 1. [Maria Carolina de Sousa Soares](https://github.com/MariaCarolinass)
 1. [Matuzael dos Santos Dias](https://github.com/Matuzael)
 1. [Vinícios Barbosa da Silva](https://github.com/ViniciosSilva811)
-
 
 ## Alguns números
 
